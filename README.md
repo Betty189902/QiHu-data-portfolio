@@ -4,7 +4,7 @@
 
 🎓 M.S. in Applied Data Science @ University of Chicago  
 💼 Aspiring Financial Data Analyst | Data Analytics & Business Intelligence  
-📍 Chicago, IL | ✉️ qih@uchicago.edu | 🌐 [LinkedIn](https://linkedin.com/in/qihu)
+📍 Chicago, IL | ✉️ qih@uchicago.edu 
 
 ---
 
