@@ -1,84 +1,81 @@
-# QiHu-data-portfolio
-# 👋 Hi, I'm Qi Hu (Betty)
+# QiHu Data Portfolio
 
-🎓 M.S. in Applied Data Science @ The University of Chicago  
-💼 Aspiring **Financial Data Analyst** | Integrating **Finance**, **Econometrics**, and **Data Science**  
-📍 Based in Chicago, IL | ✉️ qih@uchicago.edu | 🌐 [LinkedIn](https://linkedin.com/in/qihu)
+## 👋 Hi, I'm Qi Hu (Betty)
+
+🎓 M.S. in Applied Data Science @ University of Chicago  
+💼 Aspiring Financial Data Analyst | Data Analytics & Business Intelligence  
+📍 Chicago, IL | ✉️ qih@uchicago.edu | 🌐 [LinkedIn](https://linkedin.com/in/qihu)
 
 ---
 
 ## 🌿 About Me
 
-I’m passionate about exploring the intersection of **finance and data analytics** — using data science tools to quantify economic trends, measure sustainable growth, and support better financial decision-making.
-
-My research interests include:
-- **Green GDP measurement** and environmental-economic modeling  
-- **Financial risk assessment** and **portfolio optimization**  
-- **Digital economy and consumer behavior analytics**
+I am passionate about applying data science to solve real-world business problems, especially in finance and operations. I focus on turning data into actionable insights that support decision-making and improve business performance.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Data Projects
 
-### 🌏 Green GDP Modeling for Global Economic Sustainability
-- Led a research team to design a **Green GDP (GGDP)** evaluation system using **SEEA indicators**.  
-- Applied the **Entropy Weight Method (EWM)** and **Coefficient of Variation (CV)** to determine index weights.  
-- Used **K-means clustering** to classify 40+ countries into sustainability tiers.  
-- Tools: Python, Excel, Stata  
-- 🏅 *MCM Competition – Honorable Mention*
+### 🔹 Telecom Customer Churn Prediction
+- Built and compared multiple models (Logistic Regression, Random Forest, Gradient Boosting)
+- Achieved ROC-AUC > 0.84
+- Used SHAP for feature importance and model interpretability
+- Identified key churn drivers:
+  - Fiber Optic users: 41% churn rate  
+  - Month-to-month contracts: 43% churn rate  
+- Business impact:
+  - Estimated annual revenue loss: ~$1.67M  
 
----
-
-### 🏬 The Effectiveness of Digital Economy Empowering Large Shopping Centers (Shanghai)
-- Conducted stratified analysis on 500+ survey samples using **APH model**.  
-- Discovered **consumer income** and **metaverse technology access** as key drivers of online spending.  
-- Led data collection, survey design, and field interviews with shopping mall managers.  
-- Awarded *Provincial Third Prize – Chia Tai Cup National Market Analysis Competition*.
+📂 Folder: `churn-prediction/`
 
 ---
 
-### 🏦 Inclusive Finance Case Study (Agricultural Bank of China)
-- Evaluated inclusive finance platform performance using **quantitative KPIs and qualitative assessment**.  
-- Analyzed loan accessibility, rural user behavior, and policy support mechanisms.  
-- Proposed optimization strategies to enhance digital inclusion and customer satisfaction.  
-- 🏆 *Provincial Second Prize – Hangzhou Bank Cup Innovation Competition*
+### 🔹 Walmart Sales Forecasting (Time Series)
+- Built SARIMA and Auto-SARIMA models (seasonality = 52 weeks)
+- Incorporated holiday effects as exogenous variables
+- Model performance:
+  - RMSE ≈ 33,666  
+  - MAPE ≈ 2.78%  
+- Insights:
+  - Strong yearly seasonality  
+  - Holiday sales uplift observed  
+
+📂 Folder: `walmart-forecast/`
 
 ---
 
-### ⚡ Investment Strategy Report for the New Energy Industry (CAPM Model)
-- Built a CAPM-based **asset pricing model** to evaluate risk-adjusted returns in the Chinese new energy sector.  
-- Combined **PEST analysis** with **quantitative stock simulations** to forecast profitability and market risk.  
-- Awarded *University Second Prize – Zhejiang Stock Trading Simulation Competition*.
+## 🧪 Additional Research & Competition Projects
+
+### 🌏 Green GDP Modeling (MCM Competition)
+- Designed Green GDP evaluation system using SEEA indicators  
+- Applied Entropy Weight Method and clustering  
+- 🏅 Honorable Mention  
 
 ---
 
-## 🧠 Technical Skills
-
-| Category | Tools & Techniques |
-|-----------|--------------------|
-| **Programming** | Python, Stata, SQL |
-| **Analysis** | Econometrics, Time Series, Regression Modeling |
-| **Visualization** | Tableau, Excel, Power BI |
-| **Data Handling** | OpenRefine, MySQL, Data Cleaning |
-| **Other** | Git, Machine Learning (Basic), Statistical Modeling |
+### 🏬 Digital Economy Impact Study
+- Analyzed 500+ survey samples  
+- Identified key drivers of consumer behavior  
+- 🏆 Provincial Third Prize  
 
 ---
 
-## 🏅 Honors & Certifications
+## 🛠️ Technical Skills
 
-- 🧾 CFA Level I (Passed)  
-- 🧾 FRM Level I (Passed)  
-- 🏆 ZUFE Second & Third Prize Scholarships (2021–2023)  
-- 💡 Star of Securities Investment Award (2023)  
-
----
-
-## 📬 Contact
-
-📧 **Email:** qih@uchicago.edu   
-💻 **GitHub:** [github.com/qihu-data](https://github.com/qihu-data)  
+- Python (Pandas, Scikit-learn, statsmodels)
+- SQL  
+- Tableau / Power BI  
+- Machine Learning  
+- Time Series Forecasting  
 
 ---
 
-⭐️ *Welcome to my portfolio — showcasing data-driven financial research and analytical projects.*  
+## 🚀 Future Improvements
 
+- Add more end-to-end data analytics projects  
+- Improve project documentation (README, visualizations)  
+- Build dashboards to enhance storytelling  
+
+---
+
+⭐️ This portfolio focuses on data-driven projects with business impact.
