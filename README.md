@@ -75,8 +75,7 @@ My research interests include:
 
 ## 📬 Contact
 
-📧 **Email:** qih@uchicago.edu  
-🌐 **LinkedIn:** [linkedin.com/in/qihu](https://linkedin.com/in/qihu)  
+📧 **Email:** qih@uchicago.edu   
 💻 **GitHub:** [github.com/qihu-data](https://github.com/qihu-data)  
 
 ---
